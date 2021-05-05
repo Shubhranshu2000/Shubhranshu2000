@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shubhranshu2000
-- 👀 I’m interested in backend development
+- 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me shubhranshumohandas01062000@gmail.com
