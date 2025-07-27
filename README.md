@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Shubhranshu Mohan Das
 
-- 💼 I'm currently working as a **Software Engineer** at CGI, mainly involved in **data engineering**.
-- 🔄 I'm transitioning into **Full Stack Web Development** to align with my long-term goal of building scalable applications.
+- 💼 I'm currently working as a **Software Engineer** at CGI with hands-on experience in building and maintaining software solutions.
+- 🌐 Passionate about **Full Stack Web Development** and creating impactful digital experiences.
 - 💡 Skilled in **Angular**, **.NET (C#)**, **SQL/MySQL**, and actively working on improving my **DSA** and **System Design** skills.
 - 🧠 Currently building full-stack personal projects to showcase my abilities and deepen my practical experience.
-- 🛠️ Learning new technologies like, while keeping my focus sharp on web technologies.
+- 🛠️ Learning new technologies and following best practices to stay sharp and up-to-date in the web development ecosystem.
 - 🚀 Open to collaborating on web projects, especially ones that involve real-world problem solving or scalable architecture.
 - 📫 Reach me at: **shubhranshu530@gmail.com**
 
